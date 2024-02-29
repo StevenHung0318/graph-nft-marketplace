@@ -10,7 +10,7 @@ dataSources:
     source:
       address: "0xDe38902872f4Ad7B358a7C8C212638d03972AD6d"
       abi: NftMarketplace
-      startBlock: 5341127
+      startBlock: 5341127 #contract created Block
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
